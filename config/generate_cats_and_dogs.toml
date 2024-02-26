@@ -1,0 +1,6 @@
+centroids = [ # Height, length
+    22.5, 40.5, # cat
+    38.0, 50.0, # dog
+]
+noise = 1.8
+samples_per_centroid = 2000
